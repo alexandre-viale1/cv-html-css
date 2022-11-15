@@ -1,0 +1,39 @@
+html {
+    color:burlywood;
+    background-color:rgb(16, 2, 50);
+    font-family:Verdana;
+}
+a {
+    color: burlywood;
+}
+img {
+    width: 5%;
+    margin: 20px;
+}
+#mozilla {
+    color: blanchedalmond;
+}
+#cv {
+    color:rgb(96, 118, 119);
+    font-family:'Lucida Sans';
+    font-size: 45px;
+    
+}
+.competences {
+    color:blue;
+}
+.diplome {
+    color:aliceblue;
+}
+.loisir {
+    color:brown;
+}
+#cadre {
+    border-width: 5px;
+    border-color: rgb(51, 56, 79);
+    border-style:solid;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
